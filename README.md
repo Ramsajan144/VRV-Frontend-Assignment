@@ -34,7 +34,10 @@ A Role-Based Access Control (RBAC) User Interface (UI) typically allows administ
    
    Navigate to frontend Directory then
    bash
+
    npm install
+
+
    npm run dev
 
    
